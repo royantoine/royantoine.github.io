@@ -1,5 +1,3 @@
-## Contact
-
 N'hésitez pas à me contacter pour toute demande de devis ou question !
 
 [antoine.roygarnier@gmail.com](antoine.roygarnier@gmail.com)
@@ -46,4 +44,4 @@ _Développement d'un modèle statistique de prédiction de la croissance du PIB 
 
 **2017-2018 Auditeur libre au master de Politiques Publiques et Dévelopement Paris School of economics**
 
-**2012-2014 Lycée Thiers CPGE B/L**
+**2012-2014 CPGE B/L Lycée Thiers**
