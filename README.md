@@ -32,7 +32,8 @@ _Développement d'algorithmes (Python, NLP, scraping):_
 **Janvier 2017 - Juillet 2017, Analyste, Altai Consulting**
 
 _Analyse de données pour plusieurs études d'évaluation de projet en Somalie (pour la Banque Mondiale, DFID, UK FCO)_
-Développement de plan de sondage pour plusieurs études (Somali High Frequency Survey)
+
+Développement de plans de sondage pour plusieurs études (Somali High Frequency Survey)
 
 **Juin 2016 - Décembre 2016, Assistant de Recherche, CEPREMAP** 
 
