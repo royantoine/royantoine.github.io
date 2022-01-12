@@ -39,6 +39,8 @@ Les technologies que j'utilise:
 <img src="img/selenium.png" alt="selenium" style="width:100px;"/>
 <img src="img/htmlcss.png" alt="htmlcss" style="width:70px;"/>
 
+Réalisations (projets menés récemment):
+**\>>** Développement d'un outil en Python pour télécharger les tweets sur un thème et construire les graph des interactions des comptes sur ce sujet pour la start up d'Etat Disinfo (Ambassadeur pour le numérique); le code est disponible <a href="https://github.com/ambanum/social-networks-graph-generator" style="color: #464646; "><u>ici</u></a> 
 
 ## Expériences
 
