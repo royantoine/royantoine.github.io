@@ -1,12 +1,13 @@
-N'hésitez pas à me contacter pour toute demande de devis ou question !
+N'hésitez pas à me contacter pour toute demande de devis ou question!
 
-[antoine.roygarnier@gmail.com](antoine.roygarnier@gmail.com)
+<a href="antoine.roygarnier@gmail.com" style="color: #464646; "><u>antoine.roygarnier@gmail.com</u></a>
 
 
 ## À propos de moi
 Data scientist en freelance, diplômé de l'ENSAE en Data Science, j'ai plus de 4 ans d'expérience en analyse des données, machine learning, NLP, télédétection (remote sensing), analyse géospatiale, cartographie (GIS) et web scraping. J'ai à la fois collaboré au développement de logiciel au sein d'une équipe en développement continu mais aussi contribué à des projets courts en format conseil.
 
-Je suis particulièrement intéressé par les projets en politique publique, dans l'agriculture, l'énergie, l'environnement ou des projets à impact social positif (économie sociale et solidaire, projets environnementaux, développement, ...).
+Je suis particulièrement intéressé par les projets en politique publique, dans l'agriculture, l'énergie, l'environnement ou des projets à impact social positif (économie sociale et solidaire, projets environnementaux, développement).\
+J'aide aussi les chercheurs qui ont besoin d'ingénieur de recherche pour l'analyse de leurs données.
 
 ## Solutions
 
@@ -71,7 +72,7 @@ Développement de plans de sondage pour plusieurs études (Somali High Frequency
 
 _Développement d'un modèle statistique de prédiction de la croissance du PIB aux Etats-Unis_
 
-## Éducation
+## Formation
 
 **2014-2018 Master en Data Science ENSAE**
 
