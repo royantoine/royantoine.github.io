@@ -8,6 +8,37 @@ Data scientist en freelance, diplômé de l'ENSAE en Data Science, j'ai plus de 
 
 Je suis particulièrement intéressé par les projets en politique publique, dans l'agriculture, l'énergie, l'environnement ou des projets à impact social positif (économie sociale et solidaire, projets environnementaux, développement, ...).
 
+## Solutions
+
+**\>>** Analyse de données structurées et non structurées (texte, image) et restitution des analyses sur une plateforme web ou dans un rapport (pdf/word) \
+**\>>** Analyses géospatiales et télédéction pouvant être restituées dans des cartes ou plateforme \
+**\>>** Web scraping et structuration de données \
+**\>>** Développement de modules Python de Machine Learning ou de traitement des données \
+**\>>** Support aux équipes data des entreprises \
+**\>>** Ingéniérie logicielle en Python \
+**\>>** ...
+
+Les technologies que j'utilise:
+
+<img src="img/python.png" alt="Python" style="width:50px;"/>
+<img src="img/github-1.svg" alt="Github" style="width:50px;"/>
+<img src="img/qgis.png" alt="QGIS" style="height:50px;"/>
+<img src="img/git.png" alt="git" style="height:50px;"/>
+<img src="img/linux.png" alt="Linux" style="width:100px;"/>
+<img src="img/scikit.png" alt="scikit" style="width:100px;"/>
+<img src="img/pandas.png" alt="pandas" style="width:100px;"/>
+<img src="img/geopandas.png" alt="geopandas" style="width:100px;"/>
+<img src="img/docker.png" alt="docker" style="width:50px;"/>
+<img src="img/spacy.png" alt="spacy" style="width:50px;"/>
+<img src="img/mysql.png" alt="mysql" style="width:50px;"/>
+<img src="img/numpy.png" alt="numpy" style="width:50px;"/>
+<img src="img/postgressql.png" alt="postgressql" style="width:50px;"/>
+<img src="img/awslambda.png" alt="awslambda" style="width:100px;"/>
+<img src="img/nltk.png" alt="nltk" style="width:50px;"/>
+<img src="img/selenium.png" alt="selenium" style="width:100px;"/>
+<img src="img/htmlcss.png" alt="htmlcss" style="width:70px;"/>
+
+
 ## Expériences
 
 **Depuis Novembre 2021, Data Scientist, Freelance**
