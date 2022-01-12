@@ -2,6 +2,7 @@ N'hésitez pas à me contacter pour toute demande de devis ou question !
 
 [antoine.roygarnier@gmail.com](antoine.roygarnier@gmail.com)
 
+
 ## À propos de moi
 Data scientist en freelance, diplômé de l'ENSAE en Data Science, j'ai plus de 4 ans d'expérience en analyse des données, machine learning, NLP, télédétection (remote sensing), analyse géospatiale, cartographie (GIS) et web scraping. J'ai à la fois collaboré au développement de logiciel au sein d'une équipe en développement continu mais aussi contribué à des projets courts en format conseil.
 
