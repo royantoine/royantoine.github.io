@@ -4,7 +4,7 @@ Do not hesitate to contact me for any request for a quote or question!
 
 <a href="mailto:antoine.roygarnier@gmail.com" style="color: #464646; "><u>antoine.roygarnier@gmail.com</u></a>
 
-## About me
+## About
 
 Freelance data scientist, graduated from ENSAE in Data Science, I have more than 4 years of experience in data analysis, Machine Learning, NLP, remote sensing, geospatial analysis, cartography (GIS) and web scraping. I have both collaborated in software development and contributed to short projects in a consulting format.
 
@@ -49,7 +49,7 @@ I also help researchers who need research engineers to analyse their data.
 </table>
 <br />
 
-**Technologies**
+**Tools**
 
 <img src="img/python.png" alt="Python" style="width:50px;"/>
 <img src="img/github-1.svg" alt="Github" style="width:50px;"/>
