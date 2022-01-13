@@ -1,15 +1,18 @@
+<a href="/en" style="color: #969FDC; "><u>English Version</u></a>
+
 N'hésitez pas à me contacter pour toute demande de devis ou question!
 
 <a href="mailto:antoine.roygarnier@gmail.com" style="color: #464646; "><u>antoine.roygarnier@gmail.com</u></a>
 
 ## À propos de moi
 
-Data scientist en freelance, diplômé de l'ENSAE en Data Science, j'ai plus de 4 ans d'expérience en analyse des données, Machine Learning, NLP, télédétection (Remote Sensing), analyse géospatiale, cartographie (GIS) et web scraping. J'ai à la fois collaboré au développement de logiciel au sein d'une équipe en développement continu mais aussi contribué à des projets courts en format conseil.
+Data scientist en freelance, diplômé de l’ENSAE en Data Science, j’ai plus de 4 ans d’expérience dans les domaines de l’analyse des données, du Machine Learning, du NLP, de la télédétection (Remote Sensing), de l’analyse géospatiale, de la cartographie (GIS) et du web scraping. J’ai à la fois collaboré au développement de logiciel au sein d’une équipe en développement continu mais aussi contribué à des projets courts en format conseil.
 
-J'aide les acteurs publics et privés à tirer le meilleur parti de leur données. Je peux m'intégrer à des équipes dev et data existantes ou répondre à un besoin particulier et déveloper mes propres solutions.
+J’assiste les acteurs publics et privés pour qu’ils tirent le meilleur parti de leur données. Je peux m’intégrer à des équipes développement et data existantes ou répondre à un besoin particulier et développer mes propres solutions.
 
-Je suis particulièrement intéressé par les projets en politique publique, dans l'agriculture, l'énergie, l'environnement ou des projets à impact social positif (économie sociale et solidaire, projets environnementaux, développement).\
-J'aide aussi les chercheurs qui ont besoin d'ingénieur de recherche pour l'analyse de leurs données.
+Je suis particulièrement intéressé par les projets en politique publique, liés à l’agriculture, l’énergie, l’environnement ou par les projets à impact social positif (économie sociale et solidaire, projets environnementaux, développement).
+
+J’aide aussi les chercheurs qui ont besoin d’ingénieurs de recherche pour l’analyse de leurs données.
 
 ## Services
 
@@ -85,7 +88,7 @@ _Appui en data science sur des projets et développement de logiciels_
 _Conseil en data science pour des institutions publiques et privées en Europe, en Afrique et au Moyen Orient
 (Remote Sensing, Geospatial Analysis, NLP):_
 - Evaluation de la déforestation au Sahel pour l'Agence Française du Développement
-- Evaluation des dégats causés par les criquets sur les cultures en Afrique de l'Est
+- Evaluation des dégâts causés par les criquets sur les cultures en Afrique de l'Est
 - Plateforme geo-marketing pour cartographier la fracture numérique en Europe et en Afrique pour un opérateur satellite
 - Analyse des réseaux sociaux des appels au boycott au Maghreb et au moyen Orient pour une multinationale
 
@@ -93,7 +96,7 @@ _Conseil en data science pour des institutions publiques et privées en Europe, 
 
 _Développement d'algorithmes (Python, NLP, scraping):_
 - outil de Machine Learning pour classer les articles de presse par sujet
-- outit de scraping des sites internets des collectivités locales françaises pour récupérer les documents administratifs
+- outil de scraping des sites internets des collectivités locales françaises pour récupérer les documents administratifs
 - outil pour sélectionner automatiquement le meilleur extrait des articles de presse
 
 **Janvier 2017 - Juillet 2017, Analyste, Altai Consulting**
@@ -112,4 +115,4 @@ _Développement d'un modèle statistique de prédiction de la croissance du PIB 
 
 **2017-2018 Auditeur libre au master de Politiques Publiques et Dévelopement Paris School of economics**
 
-**2012-2014 CPGE B/L Lycée Thiers**
+**2012-2014 CPGE B/L (_Lettres et Sciences Sociales_) Lycée Thiers**
