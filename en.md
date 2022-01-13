@@ -1,6 +1,6 @@
 <a href="/" style="color: #969FDC; "><u>Version Française</u></a>
 
-Do not hesitate to contact me for any request for quotation or question!
+Do not hesitate to contact me for any request for a quote or question!
 
 <a href="mailto:antoine.roygarnier@gmail.com" style="color: #464646; "><u>antoine.roygarnier@gmail.com</u></a>
 
